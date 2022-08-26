@@ -1,0 +1,7 @@
+{
+  "deno.codeLens.test": true,
+  "deno.enable": true,
+  "deno.suggest.completeFunctionCalls": true,
+  "deno.unstable": true,
+  "git.branchProtectionPrompt": "alwaysCommit"
+}
